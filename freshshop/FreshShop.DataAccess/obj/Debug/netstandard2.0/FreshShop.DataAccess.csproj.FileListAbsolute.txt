@@ -1,0 +1,12 @@
+C:\Users\Lenovo\Desktop\MVC_Uygulamalarr\FreshShop\FreshShop.DataAccess\bin\Debug\netstandard2.0\FreshShop.DataAccess.deps.json
+C:\Users\Lenovo\Desktop\MVC_Uygulamalarr\FreshShop\FreshShop.DataAccess\bin\Debug\netstandard2.0\FreshShop.DataAccess.dll
+C:\Users\Lenovo\Desktop\MVC_Uygulamalarr\FreshShop\FreshShop.DataAccess\obj\Debug\netstandard2.0\FreshShop.DataAccess.csprojAssemblyReference.cache
+C:\Users\Lenovo\Desktop\MVC_Uygulamalarr\FreshShop\FreshShop.DataAccess\obj\Debug\netstandard2.0\FreshShop.DataAccess.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\MVC_Uygulamalarr\FreshShop\FreshShop.DataAccess\obj\Debug\netstandard2.0\FreshShop.DataAccess.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\MVC_Uygulamalarr\FreshShop\FreshShop.DataAccess\bin\Debug\netstandard2.0\FreshShop.DataAccess.pdb
+C:\Users\Lenovo\Desktop\MVC_Uygulamalarr\FreshShop\FreshShop.DataAccess\bin\Debug\netstandard2.0\FreshShop.Model.dll
+C:\Users\Lenovo\Desktop\MVC_Uygulamalarr\FreshShop\FreshShop.DataAccess\bin\Debug\netstandard2.0\FreshShop.Model.pdb
+C:\Users\Lenovo\Desktop\MVC_Uygulamalarr\FreshShop\FreshShop.DataAccess\obj\Debug\netstandard2.0\FreshShop.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\MVC_Uygulamalarr\FreshShop\FreshShop.DataAccess\obj\Debug\netstandard2.0\FreshShop.DataAccess.csproj.CopyComplete
+C:\Users\Lenovo\Desktop\MVC_Uygulamalarr\FreshShop\FreshShop.DataAccess\obj\Debug\netstandard2.0\FreshShop.DataAccess.dll
+C:\Users\Lenovo\Desktop\MVC_Uygulamalarr\FreshShop\FreshShop.DataAccess\obj\Debug\netstandard2.0\FreshShop.DataAccess.pdb

@@ -1,0 +1,86 @@
+﻿
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Areas/AdminPanel/Views/Shared/_Layout.cshtml";
+}
+
+@model List<FreshShop.Model.Entity.Manager>
+
+
+
+
+@section styles{
+    <link rel="stylesheet" href="/AdminPanelContent/plugins/datatables-bs4/css/dataTables.bootstrap4.min.css">
+    <link rel="stylesheet" href="/AdminPanelContent/plugins/datatables-responsive/css/responsive.bootstrap4.min.css">
+}
+@section scripts{
+
+    <script src="/AdminPanelContent/plugins/datatables/jquery.dataTables.min.js"></script>
+    <script src="/AdminPanelContent/plugins/datatables-bs4/js/dataTables.bootstrap4.min.js"></script>
+    <script src="/AdminPanelContent/plugins/datatables-responsive/js/dataTables.responsive.min.js"></script>
+    <script src="/AdminPanelContent/plugins/datatables-responsive/js/responsive.bootstrap4.min.js"></script>
+    
+    <script>    
+        $(function () {
+            $("#tblManagers").DataTable({
+                "responsive": true,
+                "autoWidth": false,
+            });
+            //$('#example1').DataTable({
+            //    "paging": true,
+            //    "lengthChange": false,
+            //    "searching": false,
+            //    "ordering": true,
+            //    "info": true,
+            //    "autoWidth": false,
+            //    "responsive": true,
+            //});
+        });
+    </script>
+}
+
+<div class="col-12">
+    <div class="card">
+        <div class="card-header">
+            <h3 class="card-title">Sistemde Kayıtlı Yöneticiler</h3>
+            <br />
+            <a href="/new-manager" class="btn btn-warning">Yeni Yönetici</a>
+        </div>
+        
+        <div class="card-body">
+            <table id="tblManagers" class="table table-bordered table-striped">
+                <thead>
+                    <tr>
+                        <th></th>
+                        <th>Ad Soyad</th>
+                        <th>Email</th>
+                        <th>Düzenle</th>
+                        <th>Sil</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    @foreach (var item in Model)
+                    {
+                    <tr>
+                        <td>
+                            <img src="@item.PhotoPath" style="width:80px"/>
+                        </td>
+                        <td>@item.FullName</td>
+                        <td>@item.Email</td>
+                        <td>
+                            <a href="#" class="btn btn-warning">Düzenle</a>
+                        </td>
+                        <td>
+                            <a href="#" class="btn btn-danger">Sil</a>
+                        </td>
+                    </tr>
+                    }
+                    
+                  
+                </tbody>
+                
+            </table>
+        </div> 
+    </div>
+</div>
+

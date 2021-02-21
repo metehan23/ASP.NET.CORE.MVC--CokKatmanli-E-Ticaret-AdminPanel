@@ -1,0 +1,9 @@
+C:\Users\Lenovo\Desktop\MVC_Uygulamalarr\FreshShop\FreshShop.Model\bin\Debug\netstandard2.0\FreshShop.Model.deps.json
+C:\Users\Lenovo\Desktop\MVC_Uygulamalarr\FreshShop\FreshShop.Model\bin\Debug\netstandard2.0\FreshShop.Model.dll
+C:\Users\Lenovo\Desktop\MVC_Uygulamalarr\FreshShop\FreshShop.Model\bin\Debug\netstandard2.0\FreshShop.Model.pdb
+C:\Users\Lenovo\Desktop\MVC_Uygulamalarr\FreshShop\FreshShop.Model\obj\Debug\netstandard2.0\FreshShop.Model.csprojAssemblyReference.cache
+C:\Users\Lenovo\Desktop\MVC_Uygulamalarr\FreshShop\FreshShop.Model\obj\Debug\netstandard2.0\FreshShop.Model.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\MVC_Uygulamalarr\FreshShop\FreshShop.Model\obj\Debug\netstandard2.0\FreshShop.Model.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\MVC_Uygulamalarr\FreshShop\FreshShop.Model\obj\Debug\netstandard2.0\FreshShop.Model.dll
+C:\Users\Lenovo\Desktop\MVC_Uygulamalarr\FreshShop\FreshShop.Model\obj\Debug\netstandard2.0\FreshShop.Model.pdb
+C:\Users\Lenovo\Desktop\MVC_Uygulamalarr\FreshShop\FreshShop.Model\obj\Debug\netstandard2.0\FreshShop.Model.csproj.CoreCompileInputs.cache
